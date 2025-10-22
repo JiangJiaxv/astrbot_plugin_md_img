@@ -1,4 +1,4 @@
-# helloworld
+# astrbot_plugin_md_img
 
 AstrBot 插件模板
 
